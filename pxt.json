@@ -1,0 +1,23 @@
+{
+    "name": "AI TASK 2",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "robotbit": "github:kittenbot/pxt-robotbit#v0.3.6",
+        "koi": "github:kittenbot/pxt-koi#v0.6.1"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
